@@ -1,0 +1,6 @@
+{
+  "summary":  "Cập nhật kế hoạch triển khai: \n1. Tối ưu hệ thống thông báo: Chỉ thông báo khi có cập nhật task và đổi phân ca, gửi đích danh cho đúng user thụ hưởng của task hoặc ca đó, loại bỏ hoàn toàn các thông báo thừa.\n2. Xuất file mẫu Excel phân ca: Sắp xếp danh sách nhân sự chính xác 100% theo thứ tự danh sách quản trị thành viên (order).\n3. Popup xác nhận đổi phân ca cho Admin: Giao diện iOS glassmorphism, đối chiếu trực quan ca cũ và ca mới để tránh nhầm lẫn thao tác.",
+  "updatedAt":  "2026-11-01T13:24:49.145632162Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

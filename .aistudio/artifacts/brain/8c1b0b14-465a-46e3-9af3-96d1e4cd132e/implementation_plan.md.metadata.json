@@ -1,0 +1,6 @@
+{
+  "summary":  "Báo cáo hoàn thành phân quyền mục Công cụ & Trang web: Tài khoản Nhân viên (USER) chỉ được thao tác trên web, ẩn hoàn toàn các nút thêm bớt hoặc cấu hình trang; Quyền quản trị chỉ dành cho Quản trị viên (ADMIN).",
+  "updatedAt":  "2026-11-01T05:32:20.692229013Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
